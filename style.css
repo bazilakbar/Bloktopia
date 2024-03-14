@@ -1,0 +1,147 @@
+body{
+    font-family:Poppins;
+    background-color: black;
+}
+.btn{
+    background-color: rgba(255, 0, 185, 1);
+    color: white;
+    width: 174px;
+    height: 44px;
+    border: 0px;
+    border-radius: 13px;
+    font-weight: 500;
+    margin-right: 15px;
+}
+.navbar{
+    font-size: 15px;
+    color: white;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 10px;
+}
+.container-fluid{
+    background-color: black;
+    
+}
+
+.btn:hover{
+    background-color: rgba(195, 0, 185, 1);
+}
+.collapse{
+    background-color: black;
+    justify-content: space-around;
+}
+.navbar-brand{
+    margin-left: 40PX;
+}
+#same{
+    color: white;
+    font-weight: 500;
+}
+
+.dropdown-item{
+    background-color: black;
+    color: white;
+    font-weight: 500;
+}
+.dropdown-menu{
+    padding-top: 0px;
+    padding-bottom: 0px;
+    border: 2px;
+    border-color: rgb(255, 255, 255);
+}
+.dropdown-item:hover{
+    color:rgba(255, 0, 185, 1) ;
+    background-color: black;
+}
+
+#same:hover{
+    color: rgba(255, 0, 185, 1) ;
+}
+.first-img{
+    
+    border-radius: 15px;
+    border: 2px,gray;
+    /* margin-left:10%; */
+}
+.img-div{
+    margin-top: 10%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;    
+
+}
+.road{
+    border: 5px,rgb(255, 255, 255);
+
+}
+.firt-h1{
+    font-size: 70px;
+    font-weight: 700;
+    padding-top: 0px;
+}
+.child{
+    margin-left: 65px;
+    padding-top: 0px;
+}
+.sec{
+    color: #ff00b9;
+}
+#para{
+    padding-top: 15px;
+}
+#find{
+    background-color: #171717;
+    border-style: solid;
+    width: 200px;
+    height: 45px;
+    border-radius: 10px;
+    border-color: #ff00b9;
+    color:#ff00b9 ;
+}
+#find:hover{
+    color: white;
+    background-color:#ff00b9 ;
+    transition: 1s;
+}
+.main-div{
+    margin-top: 50px;
+    display: flex;
+    /* flex-flow:row ; */
+    justify-content:center;
+    flex-flow: row wrap;
+    
+
+   
+      
+}
+.con-1{
+    /* margin-left: 20px; */    
+}
+.con-2{
+    
+    margin-top:100px ;
+    text-align: center;
+    color: white;
+    /* margin-right: 30px; */
+    align-items: center;
+
+
+   
+}
+.btopia{
+    font-weight: 700;
+    color: white;
+    font-size: 30px;
+}
+.para-one{
+    font-weight: 500;
+}
+.con-3{
+    margin-top: 90px;
+
+    /* margin-right: 20px; */
+}
+.card-title{
+    position:absolute;
+}
